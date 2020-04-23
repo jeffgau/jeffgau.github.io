@@ -6,7 +6,7 @@ excerpt: 'This paper is about...'
 date: 2019-12-18
 venue: 'Journal of the Royal Society Interface'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jeff Gau, Nick Gravish, Simon Sponberg (2019). &quot;Indirect actuation reduces flight power requirements in <i>Manduca sexta</i>.&quot; <i>Journal of the Royal Society Interface 1</i>. 1(1).'
 ---
 About...
 
