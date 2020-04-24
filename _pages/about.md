@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Under construction...
+## About me
+I'm a PhD candidate in the [Sponberg Lab](sponberg.gatech.edu).
+
+Under construction.
